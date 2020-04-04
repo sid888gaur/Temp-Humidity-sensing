@@ -13,3 +13,7 @@ This file interfaces DHT11 with NodeMCU and then communicates the data with Ardu
 This file receives the data sent by NodeMCU to Arduino UNO and prints the data on Serial monitor
 
 ## Circuit
+
+![DHT11-NodeMCU connection](/NodeMCU-DHT11.png)
+
+![NodeMCU-Arduino connection](/master-slave.png)
