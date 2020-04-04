@@ -1,5 +1,5 @@
 # Temp-Humidity-sensing
-*Temp-Humidity sensing and communicating data to Arduino UNO
+*Temp-Humidity sensing and communicating data to Arduino UNO*
 
 In this project, temperature and humidity is sensed using DHT11 sensor.
 The DHT11 sensor is interfaced with NodeMCU, the temperature and humidity values are
